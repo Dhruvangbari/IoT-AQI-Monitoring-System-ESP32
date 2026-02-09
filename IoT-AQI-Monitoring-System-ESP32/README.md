@@ -77,6 +77,7 @@ Ideal for **IoT academic projects and demonstrations**.
 | D6 | 18 |
 | D7 | 5 |
 
+
 ---
 
 ## ☁️ Cloud Configuration (ThingSpeak)
