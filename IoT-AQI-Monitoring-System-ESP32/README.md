@@ -87,7 +87,9 @@ Ideal for **IoT academic projects and demonstrations**.
 4. Copy the **Write API Key**
 5. Paste it into the ESP32 code:
 ```cpp
+
 String apiKey = "YOUR_API_KEY";
+
 
 ## Author
 Dhruvang Bari
