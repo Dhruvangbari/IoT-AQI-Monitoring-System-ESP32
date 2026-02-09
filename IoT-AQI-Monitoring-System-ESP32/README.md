@@ -90,6 +90,5 @@ Ideal for **IoT academic projects and demonstrations**.
 
 String apiKey = "YOUR_API_KEY";
 
-
 ## Author
 Dhruvang Bari
